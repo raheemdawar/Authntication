@@ -1,0 +1,11 @@
+c:\users\ninja\source\repos\Authntication\Authntication\bin\Debug\netcoreapp2.0\Authntication.deps.json
+c:\users\ninja\source\repos\Authntication\Authntication\bin\Debug\netcoreapp2.0\Authntication.runtimeconfig.json
+c:\users\ninja\source\repos\Authntication\Authntication\bin\Debug\netcoreapp2.0\Authntication.runtimeconfig.dev.json
+c:\users\ninja\source\repos\Authntication\Authntication\bin\Debug\netcoreapp2.0\Authntication.dll
+c:\users\ninja\source\repos\Authntication\Authntication\bin\Debug\netcoreapp2.0\Authntication.pdb
+c:\users\ninja\source\repos\Authntication\Authntication\obj\Debug\netcoreapp2.0\Authntication.csprojResolveAssemblyReference.cache
+c:\users\ninja\source\repos\Authntication\Authntication\obj\Debug\netcoreapp2.0\Authntication.csproj.CoreCompileInputs.cache
+c:\users\ninja\source\repos\Authntication\Authntication\obj\Debug\netcoreapp2.0\Authntication.AssemblyInfoInputs.cache
+c:\users\ninja\source\repos\Authntication\Authntication\obj\Debug\netcoreapp2.0\Authntication.AssemblyInfo.cs
+c:\users\ninja\source\repos\Authntication\Authntication\obj\Debug\netcoreapp2.0\Authntication.dll
+c:\users\ninja\source\repos\Authntication\Authntication\obj\Debug\netcoreapp2.0\Authntication.pdb

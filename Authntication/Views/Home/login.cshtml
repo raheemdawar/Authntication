@@ -1,0 +1,12 @@
+﻿@model UserLoginModel
+@{
+    ViewData["Title"] = "login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>login</h2>
+<form action="userCredentials" method="post">
+    <input type="email" name="email" placeholder="Enter your Email Address" />
+    <input type="password" name="password" placeholder="Enter your Password" />
+    <input type="submit" />
+</form>
